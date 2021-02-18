@@ -1,0 +1,37 @@
+.card {
+  width: 20rem;
+  height: 50vh;
+  background-color: rgb(41, 145, 110);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: 10px;
+  margin: 0.5rem;
+  box-shadow: 3px 5px 5px rgba(0, 0, 0, 0.384);
+  transition: transform 0.5s ease-in-out;
+  overflow: hidden;
+}
+.card:hover {
+  transform: scale(1.05);
+}
+.card h2 {
+  color: white;
+  font-size: 2rem;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.search {
+  height: 10vh;
+  text-align: center;
+}
+.searchBox {
+  padding: 1rem 2rem;
+  border: 1px solid gray;
+  outline: none;
+  font-size: 1rem;
+}
