@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Amr-khaled-eg/robo/static/css/main.c1917af9.chunk.css",
-    "main.js": "/Amr-khaled-eg/robo/static/js/main.7c838a9d.chunk.js",
-    "main.js.map": "/Amr-khaled-eg/robo/static/js/main.7c838a9d.chunk.js.map",
-    "runtime-main.js": "/Amr-khaled-eg/robo/static/js/runtime-main.18bf46e5.js",
-    "runtime-main.js.map": "/Amr-khaled-eg/robo/static/js/runtime-main.18bf46e5.js.map",
-    "static/js/2.4b6a3718.chunk.js": "/Amr-khaled-eg/robo/static/js/2.4b6a3718.chunk.js",
-    "static/js/2.4b6a3718.chunk.js.map": "/Amr-khaled-eg/robo/static/js/2.4b6a3718.chunk.js.map",
-    "static/js/3.096f2fc4.chunk.js": "/Amr-khaled-eg/robo/static/js/3.096f2fc4.chunk.js",
-    "static/js/3.096f2fc4.chunk.js.map": "/Amr-khaled-eg/robo/static/js/3.096f2fc4.chunk.js.map",
-    "index.html": "/Amr-khaled-eg/robo/index.html",
-    "static/css/main.c1917af9.chunk.css.map": "/Amr-khaled-eg/robo/static/css/main.c1917af9.chunk.css.map",
-    "static/js/2.4b6a3718.chunk.js.LICENSE.txt": "/Amr-khaled-eg/robo/static/js/2.4b6a3718.chunk.js.LICENSE.txt"
+    "main.css": "/robo/static/css/main.c1917af9.chunk.css",
+    "main.js": "/robo/static/js/main.5cf4d71b.chunk.js",
+    "main.js.map": "/robo/static/js/main.5cf4d71b.chunk.js.map",
+    "runtime-main.js": "/robo/static/js/runtime-main.3f047bd6.js",
+    "runtime-main.js.map": "/robo/static/js/runtime-main.3f047bd6.js.map",
+    "static/js/2.4b6a3718.chunk.js": "/robo/static/js/2.4b6a3718.chunk.js",
+    "static/js/2.4b6a3718.chunk.js.map": "/robo/static/js/2.4b6a3718.chunk.js.map",
+    "static/js/3.096f2fc4.chunk.js": "/robo/static/js/3.096f2fc4.chunk.js",
+    "static/js/3.096f2fc4.chunk.js.map": "/robo/static/js/3.096f2fc4.chunk.js.map",
+    "index.html": "/robo/index.html",
+    "static/css/main.c1917af9.chunk.css.map": "/robo/static/css/main.c1917af9.chunk.css.map",
+    "static/js/2.4b6a3718.chunk.js.LICENSE.txt": "/robo/static/js/2.4b6a3718.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.18bf46e5.js",
+    "static/js/runtime-main.3f047bd6.js",
     "static/js/2.4b6a3718.chunk.js",
     "static/css/main.c1917af9.chunk.css",
-    "static/js/main.7c838a9d.chunk.js"
+    "static/js/main.5cf4d71b.chunk.js"
   ]
 }
